@@ -1,6 +1,8 @@
 ### Hi there <a href="https://小熊.fun/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-我是 Charlotte. 🥹🥳一个误入Android领域的后端萌新...
+我是 Charlotte. 
+
+🥹一个误入Android领域的后端萌新...
 
 <!--
 **Charlottenpl/Charlottenpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
